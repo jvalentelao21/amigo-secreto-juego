@@ -46,4 +46,5 @@ El proyecto está organizado de la siguiente manera para mantener el código lim
     └── play_circle_outline.png
 ________________________________________
 ¡Disfruta organizando tu Amigo Secreto! 🎉
+![Captura de pantalla Amigo Secreto](./assets/Captura de pantalla 2025-08-20-194957)
 
